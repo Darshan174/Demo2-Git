@@ -1,0 +1,17 @@
+GIT COMMANDS
+
+
+git add .
+git FILENAME
+vim FILENAME
+cat FILENAME
+restore --staged FILENAME
+git log
+git status
+git reset LOG NUMBER
+git stash
+git stash log
+git stash clear
+git commit -m "FILENAME file modified"
+rm -rf FILENAME
+
